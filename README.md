@@ -9,7 +9,7 @@
  <img src="lntop-v0.1.0.png">
  *lntop-v0.1.0*
 
-## Install
+## Install YES
 
 Require the [go programming language](https://golang.org/) (version >= 1.13)
 
